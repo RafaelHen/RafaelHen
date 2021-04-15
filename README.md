@@ -10,6 +10,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=RafaelHen&show_icons=true&theme=dracula" alt="GitHub Stats" /> 
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="GitHub Stats"/>
+</p>
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
