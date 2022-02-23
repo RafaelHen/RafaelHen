@@ -5,14 +5,15 @@
 <img src="https://media2.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif?cid=ecf05e47n8410eg1vgmzw64m6ury4omuww52trvcgzkjg4te&rid=giphy.gif">
 </p>
 
+<div>
+  <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelHen" alt="GitHub Stats" /> 
+  </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RafaelHen" alt="GitHub Stats" /> 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHen&layout=compact" alt="GitHub Stats"/>
-</p>
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHen&layout=compact" alt="GitHub Stats"/>
+  </p>
+</div>
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
