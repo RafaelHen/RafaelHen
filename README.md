@@ -7,10 +7,6 @@
 
 <div>
   <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelHen" alt="GitHub Stats" /> 
-  </p>
-
-  <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHen&layout=compact" alt="GitHub Stats"/>
   </p>
 </div>
